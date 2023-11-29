@@ -33,7 +33,12 @@ MKBD0102's github profile
 jihyeon9802@gmail.com
 
 <br/>
+<h4>
+🌱 Currently Learning
+</h4>
 
+- Data Engineering
+- DataBase
 
 <br/>
 - 👯 I’m looking to collaborate on 프로젝트
