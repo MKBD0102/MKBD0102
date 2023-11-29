@@ -11,27 +11,31 @@ MKBD0102's github profile
 <br/>
 <br/>
 
-<div align="center">
 <h4>
-✍️Major
+✍️ Major
 </h4>
-</div>
 
 - Industrial System Engineering
 
-<div align="center">
+<br/>
 <h4>
-🧑‍💻Study
+🧑‍💻 Study
 </h4>
-</div>
 
 - Python  
 - SQL
 - Data Annalysis
 
 <br/>
+<h4>
+📫 How to reach me
+</h4>
+jihyeon9802@gmail.com
 
-- 🌱 I’m currently learning: Python & Data Engineering
+<br/>
+
+
+<br/>
 - 👯 I’m looking to collaborate on 프로젝트
 - 🤔 I’m looking for help with 
 - 💬 Ask me about 
