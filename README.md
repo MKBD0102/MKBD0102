@@ -11,6 +11,17 @@ MKBD0102's github profile
 <br/>
 <br/>
 
+<div align="center">
+<h4>
+✏️Study
+</h4>
+</div>
+
+- Python  
+- SQL
+- Data Annalysis
+
+<br/>
 
 - 🌱 I’m currently learning: Python & Data Engineering
 - 👯 I’m looking to collaborate on 프로젝트
