@@ -6,17 +6,14 @@ Hi there 👋
 </h1>
 MKBD0102's github profile
 </div>
-
 <br/>
 <br/>
 <br/>
-
 <h4>
 ✍️ Major
 </h4>
 
 - Industrial System Engineering
-
 <br/>
 <h4>
 🧑‍💻 Study
@@ -25,13 +22,12 @@ MKBD0102's github profile
 - Python  
 - SQL
 - Data Annalysis
-
 <br/>
 <h4>
 📫 How to reach me
 </h4>
-jihyeon9802@gmail.com
 
+- jihyeon9802@gmail.com
 <br/>
 <h4>
 🌱 Currently Learning
@@ -39,8 +35,15 @@ jihyeon9802@gmail.com
 
 - Data Engineering
 - DataBase
-
 <br/>
+<h4>
+💻 Status
+</h4>
+
+![MKBD0102's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKBD0102&show_icons=true&theme=merko)
+<br/>
+
+
 - 👯 I’m looking to collaborate on 프로젝트
 - 🤔 I’m looking for help with 
 - 💬 Ask me about 
