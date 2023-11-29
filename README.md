@@ -37,8 +37,10 @@ MKBD0102's github profile
 - DataBase
 <br/>
 <h4>
-💻 Status
+💻 Stats
 </h4>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMKBD0102&count_bg=%23F4F262&title_bg=%23868686&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![MKBD0102's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKBD0102&show_icons=true&theme=merko)
 <br/>
