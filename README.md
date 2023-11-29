@@ -13,7 +13,15 @@ MKBD0102's github profile
 
 <div align="center">
 <h4>
-✏️Study
+✍️Major
+</h4>
+</div>
+
+- Industrial System Engineering
+
+<div align="center">
+<h4>
+🧑‍💻Study
 </h4>
 </div>
 
