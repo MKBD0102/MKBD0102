@@ -45,10 +45,3 @@ MKBD0102's github profile
 ![MKBD0102's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKBD0102&show_icons=true&theme=merko)
 <br/>
 
-
-- 👯 I’m looking to collaborate on 프로젝트
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: 이메일
-- 😄 Pronouns: 
-- ⚡ Fun fact: 특장점
